@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Web3 and Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://kareevkawnine.com/projects](https://kareevkawnine.com/projects)
+- 👨‍💻 All of my projects are available at my [Project Gallery](https://kareevkawnine.com/projects)
 
-- 📝 I regularly write articles on [https://kareevkawnine.com/blogs](https://kareevkawnine.com/blogs)
+- 📝 I regularly write articles on my [Website](https://kareevkawnine.com/blogs)
 
 - 💬 Ask me about **react, node, express, redux and typescript**
 
