@@ -1,4 +1,4 @@
-# Hi there, I'm Kareev Kawnine - aka [KareevKaw9][youtube] 👋 
+# Hi there, I'm Kareev Kawnine - aka [Kareev Kaw9][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0JPgK4oD9DCJmLvrSRSRiA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=kareevkawnine.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
