@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **kareevkawnine@gmail.com**
 
-- 📄 Know about my experiences [https://kareevkawnine.com/resume](https://kareevkawnine.com/resume)
+- 📄 Know about my experiences from my [Resume](https://kareevkawnine.com/resume)
 
 - ⚡ Fun fact **I love to play video games especially FPS games**
 <br>
