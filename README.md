@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kareevkaw9" target="blank"><img src="https://img.shields.io/twitter/follow/kareevkaw9?logo=twitter&style=for-the-badge" alt="kareevkaw9" /></a> </p>
 <img align="right" alt="Coding" width="400" style="margin-top: 20px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+![Untitled design](https://user-images.githubusercontent.com/73062307/201064761-93454e44-774b-43d9-96b3-1f7fbf587101.gif)
 
 
 - 🔭 I’m currently working on [Meta For Estate](https://github.com/KareevKawnine/Meta-For-State)
