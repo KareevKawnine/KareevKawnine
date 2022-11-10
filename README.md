@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **react, node, express, redux and typescript**
 
-- 📫 How to reach me **kareevkawnine@gmail.com**
+- 📫 Reach me at **kareevkawnine@gmail.com**
 
 - 📄 Know about my experiences from my [Resume](https://kareevkawnine.com/resume)
 
