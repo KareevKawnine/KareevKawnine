@@ -8,19 +8,19 @@
 <img align="right" alt="Coding" width="400" style="margin-top: 20px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on [Meta For Estate](https://github.com/KareevKawnine/Meta-For-State)
+- 🔭 I’m currently working on [My Portfolio](https://ahmadulkawnine.vercel.app/)
 
-- 🌱 I’m currently learning **Web3 and Blockchain**
+- 🌱 I’m currently learning **Software Engineering**
 
-- 👨‍💻 All of my projects are available at my [Project Gallery](https://kareevkawnine.com/projects)
+- 👨‍💻 All of my projects are available at my [Project Gallery](https://ahmadulkawnine.vercel.app/works)
 
-- 📝 I regularly write articles on my [Website](https://kareevkawnine.com/blogs)
+- 📝 I regularly write articles on my [DEV.to Community](https://dev.to/kareevkawnine)
 
-- 💬 Ask me about **react, node, express, redux and typescript**
+- 💬 Ask me about **react, node, express, redux and next**
 
 - 📫 Reach me at **kareevkawnine@gmail.com**
 
-- 📄 Know about my experiences from my [Resume](https://kareevkawnine.com/resume)
+- 📄 Know about my experiences from my [Resume](https://ahmadulkawnine.vercel.app/credentials)
 
 - ⚡ Fun fact **I love to play video games especially FPS games**
 <br>
