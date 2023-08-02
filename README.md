@@ -47,15 +47,15 @@
 
 <div align="center">
   <a href="https://github.com/kareevkawnine">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kareevkawnine&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kareevkawnine&theme=apprentice&hide_border=true&exclude_days=Sun" />
   </a>
   
 </div>
   
 <div align="center">
   <a href="https://github.com/kareevkawnine">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kareevkawnine&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kareevkawnine&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kareevkawnine&theme=apprentice" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kareevkawnine&theme=apprentice" />
   </a>
 </div>
 
