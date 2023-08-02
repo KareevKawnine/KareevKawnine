@@ -280,7 +280,7 @@
 <h3 align="center">Support</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/kareevkawnine"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kareevkawnine" /></a></p><br>
 <p align="center">
-  <img src="Bottom_down.svg">
+  <img src="wave.svg">
 </p>
 
 
