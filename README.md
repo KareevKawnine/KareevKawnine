@@ -32,7 +32,7 @@
 - ⚡ Fun fact **I love to play video games especially FPS games**
 <br>
 
-## **My GitHub Stats**
+## **My GitHub Stats:**
 
 <div align="center">
   <a href="https://github.com/kareevkawnine">
@@ -60,21 +60,7 @@
 </div>
 
 ## **Skills & Technologies:**
-<h3 align="center">Connect With Me</h3>
-<p align="center">
-  <a href="https://fb.com/kareevkaw9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kareevkaw9" height="30" width="40" /></a>
-  <a href="https://instagram.com/kareev_kawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kareev_kawnine" height="30" width="40" /></a>
-  <a href="https://discord.gg/cdJDAHUvCN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cdJDAHUvCN" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/kareevkaw9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kareevkaw9" height="30" width="40" /></a>
-  <a href="https://twitter.com/kareevkaw9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kareevkaw9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kareevkawnine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareevkawnine/" height="30" width="40" /></a>
-<a href="https://codepen.io/kareevkawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kareevkawnine" height="30" width="40" /></a>
-<a href="https://dev.to/kareevkawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kareevkawnine" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15070595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15070595" height="30" width="40" /></a>
-<a href="https://codesandbox.com/kareevkawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kareevkawnine" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/kareevkawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="kareevkawnine" height="30" width="40" /></a>
 
-</p>
 <h3 align="center">Languages And Tools</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -275,6 +261,22 @@
 
 </p>
 
+## **Connect with me:**
+<h3 align="center">Social Media</h3>
+<p align="center">
+  <a href="https://fb.com/kareevkaw9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kareevkaw9" height="30" width="40" /></a>
+  <a href="https://instagram.com/kareev_kawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kareev_kawnine" height="30" width="40" /></a>
+  <a href="https://discord.gg/cdJDAHUvCN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cdJDAHUvCN" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/kareevkaw9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kareevkaw9" height="30" width="40" /></a>
+  <a href="https://twitter.com/kareevkaw9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kareevkaw9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kareevkawnine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareevkawnine/" height="30" width="40" /></a>
+<a href="https://codepen.io/kareevkawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kareevkawnine" height="30" width="40" /></a>
+<a href="https://dev.to/kareevkawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kareevkawnine" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15070595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15070595" height="30" width="40" /></a>
+<a href="https://codesandbox.com/kareevkawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kareevkawnine" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/kareevkawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="kareevkawnine" height="30" width="40" /></a>
+
+</p>
 <h3 align="center">Support</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/kareevkawnine"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kareevkawnine" /></a></p><br>
 
