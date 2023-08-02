@@ -1,5 +1,5 @@
 ![KareevKawnine](https://user-images.githubusercontent.com/73062307/201062504-4c24a11b-542f-4082-a514-f025f14e6e94.gif)
-<h1 align="center">Hey👋, I'm Kareev Kawnine</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Kareev+Kawnine" alt="Typing SVG" /></a>
 <h3 align="center">A Creative Web Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kareevkawnine&label=Profile%20views&color=0e75b6&style=flat" alt="kareevkawnine" /> </p>
@@ -8,9 +8,9 @@
 <img align="right" alt="Coding" width="400" style="margin-top: 20px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on [My Portfolio](https://ahmadulkawnine.vercel.app/)
+- 🔭 I’m currently working on [KawnineAI](https://kawnineai.elementfx.com)
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Computer Science**
 
 - 👨‍💻 All of my projects are available at my [Project Gallery](https://ahmadulkawnine.vercel.app/works)
 
