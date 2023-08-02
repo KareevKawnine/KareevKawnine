@@ -3,7 +3,7 @@
 <div align="center">
   <h1>
     <a href="https://github.com/dawidolko/dawidolko">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Kawnine%F0%9F%91%8B">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FFF&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Kawnine%F0%9F%91%8B">
     </a>
   </h1>
 </div>
@@ -31,6 +31,34 @@
 
 - ⚡ Fun fact **I love to play video games especially FPS games**
 <br>
+## **My profile stats here:**
+
+<div align="center">
+  <a href="https://github.com/kareevkawnine">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareevkawnine&theme=github" />
+  </a>
+  
+  </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareevkawnine&langs_count=8&theme=great-gatsby" alt="Language stats.">
+</div>
+
+<div align="center">
+  <a href="https://github.com/kareevkawnine">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kareevkawnine&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+  </a>
+  
+</div>
+  
+<div align="center">
+  <a href="https://github.com/kareevkawnine">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kareevkawnine&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kareevkawnine&theme=slateorange" />
+  </a>
+</div>
+
+## **Skills & Technologies:**
 <h3 align="center">Connect With Me</h3>
 <p align="center">
   <a href="https://fb.com/kareevkaw9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kareevkaw9" height="30" width="40" /></a>
@@ -248,11 +276,7 @@
 
 <h3 align="center">Support</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/kareevkawnine"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kareevkawnine" /></a></p><br>
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareevkawnine&show_icons=true&locale=en&layout=compact" alt="kareevkawnine" />
-  <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=kareevkawnine&show_icons=true&locale=en" alt="kareevkawnine" />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kareevkawnine&" alt="kareevkawnine" />
-</p>
+
 
 
 
