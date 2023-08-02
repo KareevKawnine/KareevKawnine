@@ -31,17 +31,18 @@
 
 - ⚡ Fun fact **I love to play video games especially FPS games**
 <br>
-## **My profile stats here:**
+
+## **My GitHub Stats**
 
 <div align="center">
   <a href="https://github.com/kareevkawnine">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareevkawnine&theme=github" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareevkawnine&theme=apprentice" />
   </a>
   
   </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareevkawnine&langs_count=8&theme=great-gatsby" alt="Language stats.">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareevkawnine&langs_count=8&theme=apprentice" alt="Language stats.">
 </div>
 
 <div align="center">
