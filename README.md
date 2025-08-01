@@ -7,7 +7,7 @@
     </a>
   </h1>
 </div>
-<h3 align="center">A Creative Web Developer</h3>
+<h3 align="center">A Versatile Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kareevkawnine&label=Profile%20views&color=0e75b6&style=flat" alt="kareevkawnine" /> </p>
 
@@ -17,17 +17,17 @@
 
 - 🔭 I’m currently working on [KawnineAI](https://kawnineai.elementfx.com)
 
-- 🌱 I’m currently learning **Computer Science**
+<!-- - 🌱 I’m currently learning **Nothing** -->
 
 - 👨‍💻 All of my projects are available at my [Project Gallery](https://ahmadulkawnine.vercel.app/works)
 
-- 📝 I regularly write articles on my [DEV.to Community](https://dev.to/kareevkawnine)
+<!-- - 📝 I regularly write articles on my [DEV.to Community](https://dev.to/kareevkawnine) -->
 
 - 💬 Ask me about **react, node, express, redux and next**
 
 - 📫 Reach me at **kareevkawnine@gmail.com**
 
-- 📄 Know about my experiences from my [Resume](https://ahmadulkawnine.vercel.app/credentials)
+<!-- - 📄 Know about my experiences from my [Resume](https://ahmadulkawnine.vercel.app/credentials) -->
 
 - ⚡ Fun fact **I love to play video games especially FPS games**
 <br>
@@ -264,24 +264,24 @@
 ## **Connect with me:**
 <h3 align="center">Social Media</h3>
 <p align="center">
-  <a href="https://fb.com/kareevkaw9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kareevkaw9" height="30" width="40" /></a>
-  <a href="https://instagram.com/kareev_kawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kareev_kawnine" height="30" width="40" /></a>
+ <!-- <a href="https://fb.com/kareevkaw9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kareevkaw9" height="30" width="40" /></a>
+  <a href="https://instagram.com/kareev_kawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kareev_kawnine" height="30" width="40" /></a> -->
   <a href="https://discord.gg/cdJDAHUvCN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cdJDAHUvCN" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/kareevkaw9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kareevkaw9" height="30" width="40" /></a>
+ <!-- <a href="https://www.youtube.com/c/kareevkaw9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kareevkaw9" height="30" width="40" /></a> -->
   <a href="https://twitter.com/kareevkaw9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kareevkaw9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kareevkawnine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareevkawnine/" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/kareevkawnine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareevkawnine/" height="30" width="40" /></a>
 <a href="https://codepen.io/kareevkawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kareevkawnine" height="30" width="40" /></a>
 <a href="https://dev.to/kareevkawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kareevkawnine" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15070595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15070595" height="30" width="40" /></a>
-<a href="https://codesandbox.com/kareevkawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kareevkawnine" height="30" width="40" /></a>
+<a href="https://codesandbox.com/kareevkawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kareevkawnine" height="30" width="40" /></a> -->
 <a href="https://www.topcoder.com/members/kareevkawnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="kareevkawnine" height="30" width="40" /></a>
 
-</p>
+<!-- </p>
 <h3 align="center">Support</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/kareevkawnine"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kareevkawnine" /></a></p><br>
 <p align="center">
   <img src="wave.svg">
-</p>
+</p> -->
 
 
 
