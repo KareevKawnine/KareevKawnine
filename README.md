@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="400" style="margin-top: 20px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on [KawnineAI](https://kawnineai.elementfx.com)
+- 🔭 I’m currently working on [KawnineAI](/)
 
 <!-- - 🌱 I’m currently learning **Nothing** -->
 
